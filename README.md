@@ -160,7 +160,7 @@ Top contributing features:
 ## 🧑‍💻 Author
 
 **Oussama GOUSSA**  
-🎓 *Filière : ADIA - IISE*  
+🎓 *Filière : IISE*  
 🏫 *Université Ibn Zohr, Faculté des Sciences d’Agadir*  
 📅 *Année Universitaire : 2023–2024*
 
